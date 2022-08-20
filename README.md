@@ -28,7 +28,7 @@
         <a href="https://github.com/DKAT-DAVI/RedeSocial/blob/main/SQL%20files/Inser%C3%A7%C3%A3o.sql">Inserções no Banco de Dados</a>
     </h1>
     <p>
-        As inserções foram iniciadas com alguns testes, seguindo também o <abbr title="Diagrama Entidade Relacionamento">DER</abbr>, observando quais tabelas se relacionam por chave estrangeira, evitando assim a necessidade de fazer alterações nos dados após as inserções.
+        As inserções foram iniciadas com alguns testes, seguindo também o <abbr title="Diagrama Entidade Relacionamento">DER</abbr>, observando quais tabelas se relacionam por chave estrangeira, evitando assim a necessidade de fazer alterações nos dados após as inserções. Os atributos de foto foram inseridos como nulos, pois o trabalho foi feito apenas utilizando o SQL, uma vez que seria necessário a utilização de uma linguagem de programação que pudesse renderizar a foto em um servidor.
     </p>
 </div>
 
