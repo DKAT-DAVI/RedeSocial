@@ -1,7 +1,7 @@
 <div>
     <h1 align="center"> Problema 5 - A Rede Social</h1>
     <p>
-        Trabalho sobre Banco de Dados passado pelo professor Laércio Ives do IFNMG- Campus Montes Claros.
+        Trabalho sobre Banco de Dados atribuído pelo professor Laércio Ives do IFNMG- Campus Montes Claros.
     </p>
     <p>
         O trabalho consiste em receber requisitos para criação de um sistema e a partir disso elaborar um <abbr title="Diagrama Entidade Relacionamento">DER</abbr>. Depois fazer a modelagem do Banco de Dados usando o <abbr title="Sistema de Gerenciamento de Banco de Dados">SGBD</abbr> MySQL aplicando o conceito de chave estrangeira discutido em sala de aula e inserir dados no <abbr title="Banco de Dados">BD</abbr> que serão buscados durante a apresentação do trabalho.
